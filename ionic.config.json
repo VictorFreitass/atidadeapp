@@ -1,0 +1,7 @@
+{
+  "name": "atidadeapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
